@@ -134,13 +134,14 @@ When talked to people about Trivially-Copyable I would sometimes get replies lik
 
 Being a POD type, being an Aggregate and being Trivially-Copyable are not interchangeable, though they can overlap.
 
-##### [Compiler Explorer](https://godbolt.org/z/TRIqp0)
+##### [Compiler Explorer](https://godbolt.org/z/Atg-XW)
 
 ```cpp
 struct NotAggregate
 {
     NotAggregate() = default;
-    
+    NotAggregate(int aX): x(aX){}
+
     int x;
 };
 static_assert(!std::is_aggregate_v<NotAggregate>);
@@ -150,7 +151,7 @@ static_assert(std::is_pod_v<NotAggregate>);
 struct NotAggregateOrPOD
 {
     NotAggregateOrPOD(){};
-    
+
     int x;
 };
 static_assert(!std::is_aggregate_v<NotAggregateOrPOD>);
