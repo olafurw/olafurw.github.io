@@ -81,7 +81,7 @@ I wasn't getting a boost in iterating through the elements, that bit of code was
 
 After throwing a code snippet into [Compiler Explorer](https://godbolt.org/z/Cn7cLB) I saw what was going on.
 
-![memcpy](/img/trivial-1.png)
+![memcpy](/img/trivial-1.PNG)
 
 This is the version with `std::array<>`, here you can see the  assembly and the blue line where a call to `memcpy` is generated.
 
