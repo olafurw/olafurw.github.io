@@ -11,6 +11,8 @@ In C++ trivial has a very specific meaning. Let's look at examples of when being
 
 Read this if you just want the meat of the article.
 
+Copying is expensive and can be avoided in many ways, with pointers or passing by reference. But there are use cases where copying is necessary or can be better (based on usage).
+
 Do you have a class that stores data that you copy around a lot? Is that class not [trivially-copyable?](https://en.cppreference.com/w/cpp/types/is_trivially_copyable) Try to make it so. There are some performance benefits in doing that.
 
 ## Preamble
