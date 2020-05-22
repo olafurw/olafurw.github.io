@@ -217,7 +217,7 @@ There are cases where even the coolest text search would not have worked:
 
 I ran the thing. I got the numbers. Wanna see?
 
-![music-1](/img/music1.png)
+![music-1](/img/music1.PNG)
 
 Here we have how often we saw each song in each position, regardless of if it is a single or not. We can see here that most albums are at least 10 songs. We can also see, due to the very small difference between 1, 2 and 3, that there are albums out there that are just 1 or two songs, but still marked as albums. Interesting.
 
