@@ -19,7 +19,7 @@ But if you are interested in data, music industry oddities and edge cases, then 
 
 Oh boy. So I've had this notion stuck in my head for the longest time. That whenever I saw an album being released, the 3rd song in that album was also a promotional single for the album.
 
-I had created this fixation that there was some 300 iq play going on here from the music industry. That they had spent all their money on some elaborate research and found out that the 3rd song is the most effective placement on the track list, for... reasons?
+I had created this fixation that there was some 300 iq play going on here from the music industry. That they had spent all their money on some elaborate research and found out that the 3rd song is the most effective placement on the track list, for.... reasons?
 
 I'm not sure.
 
