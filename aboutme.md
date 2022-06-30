@@ -6,7 +6,7 @@ subtitle: Icelandic Software Developer
 
 ## Ólafur Waage
 
-I am a Programmer that works for Ubisoft Massive in Malmö, Sweden. Originally from Iceland. I mostly program in C++ but I can mess around in most languages.
+I am a Programmer that works for TurtleSec in Oslo, Norway. Originally from Iceland. I used to work for many years in the Gaming and Air Traffic Control industries. I mostly program in C++ but I can mess around in most languages.
 
 ## Twitter
 
