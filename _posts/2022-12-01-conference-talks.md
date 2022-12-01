@@ -34,3 +34,7 @@ This enabled fun interactions like showing the game the talk revolves around ins
 ![presentation](/img/2048-talk.png "image of a presentation slide, talking about showing the game we will be making and then there is a white square with a red box inside, similar to the game of 2048, this is then playable during the presentation.")
 
 You can checkout the repository [here.](https://github.com/olafurw/webassembly-presentation)
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1598432332809396224) or [Mastodon](https://mastodon.social/@olafurw/109440594342502155)
