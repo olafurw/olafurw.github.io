@@ -66,3 +66,7 @@ So let's extend it to use 3 digits in total for checksum (since scanning a boat 
 What barcode would you use to Scan Da ~~Navy~~ Boat In? The normal grocery store EAN-13 barcode with 2 extra checksum digits.
 
 PS. If you like Dad Jokes, you might like [this older post I made](/2019-08-18-dad-joke-analysis/) where I downloaded all of reddit... kinda.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1598772621276893184) or [Mastodon](https://mastodon.social/@olafurw/109445912286861056)
