@@ -57,4 +57,4 @@ Now those strings are stored in the binary and have the same lifetime as the app
 
 ## Comments
 
-If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1599035649876631554) or [Mastodon](https://mastodon.social/@olafurw/109450021280462332)
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1599035649876631554) or [Mastodon](https://mastodon.social/@olafurw/109450030948894811)
