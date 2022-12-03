@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogvent 3 - std::string_view and std::map
-tags: [jokes, blogvent]
+tags: [c++, learning, blogvent]
 comments: false
 ---
 
