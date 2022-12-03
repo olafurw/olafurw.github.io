@@ -54,3 +54,7 @@ So we can never use `std::string_view` in a map? The classic answer to that is "
 [(CE link)](https://godbolt.org/z/eaT1ebe66)
 
 Now those strings are stored in the binary and have the same lifetime as the application itself. Again, this will give you a correct results but I'd still personally avoid using string_views in map. One mistake of using the wrong string type and things will break.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1599035649876631554) or [Mastodon](https://mastodon.social/@olafurw/109450021280462332)
