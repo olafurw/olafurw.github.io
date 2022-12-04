@@ -66,3 +66,7 @@ Then we can say ["Doom runs on GitHub."](https://github.com/patricia-gallardo/cp
 This isn't foolproof though. I've been trying to collect normal gameplay demos and also find demos that demonstrate strange engine behavior. So I asked the speed running community for resources (which they had a lot of) and this is where I've been pulling some of the demos from.
 
 There is the [Odd Demos Archive](https://www.classicdoom.com/odddemos.htm) and the [Compet-N/Speed Demos Archive](https://archive.org/details/competn) I've been using. But we can't use all of them since we can only run the Shareware version of the game on GitHub (due to copyright of course).
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1599422860195287040) or [Mastodon](https://mastodon.social/@olafurw/109456071712908227)
