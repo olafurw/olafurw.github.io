@@ -63,7 +63,7 @@ Without describing much more, this is what the AI gave me, and I want you to not
 
 ![gpt51](/img/gpt51.png "suggestions to improve your code, use deque instead of vector, use std::swap to swap the elements, use std::copy instead of the loop, use std::minmax instead of min and max separately.")
 
-Ok, step 1, use `std::deque` instead of `std::vector`. So I tried that. I dusted off the project and built it, once with vector and once with deque and ran multiple performance tests and took the averages. With `std::deque` the average runtime using 10000 iterations was 4.72 seconds. With `std::vector` the average runtime was 4.43 seconds. Not huge but definitely a noticeable difference.
+Ok, step 1, use `std::deque` instead of `std::vector`. So I tried that. I dusted off the project and built it, once with vector and once with deque and ran multiple performance tests and took the averages. With `std::deque` the average runtime using 10000 iterations was 4.72 seconds. With `std::vector` the average runtime was 4.43 seconds. Not huge but definitely a noticeable difference. Is there a benefit of using deque, yeah possibly, but vector still wins, as it often does.
 
 Step 2, use `std::swap`. Well, in the example the bot gives me, there is no `std::swap`, so we'll call that an extra optimization. Maybe?
 
