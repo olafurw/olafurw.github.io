@@ -78,3 +78,7 @@ I tried running this, it compiles and runs, but as soon as I enable `-O3` or som
 I haven't spent a lot of time with this but from what I'm seeing, there is potential here.
 
 Now I don't think you can blindly copy these suggestions and I don't recommend you do. But having a bot like this as an extra rubber duck on your desk that you can have a chat with and get suggestions? Color me impressed.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1600233175531167745) or [Mastodon](https://mastodon.social/@olafurw/109468733358202936)
