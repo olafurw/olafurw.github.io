@@ -61,6 +61,8 @@ Here's a quick implementation I did just before writing this blog post. Assume i
 
 The comments are mostly for people reading this blog post, not as normal code comments.
 
+The header is pretty straight forward and I liked this idea of a bed. The data doesn't matter much, it's a representation of something we do.
+
 ```c++
 struct Worker
 {
@@ -98,7 +100,7 @@ public:
 };
 ```
 
-The header is pretty straight forward and I liked this idea of a bed. The data doesn't matter much, it's a representation of something we do.
+Here we have the constructor and some of the utility member functions. They're a relatively basic use of [condition_variable](https://en.cppreference.com/w/cpp/thread/condition_variable) and [locks](https://en.cppreference.com/w/cpp/thread/unique_lock) but can be illustrative for people who haven't used them much.
 
 ```cpp
 // Here we're using the new std::bind_front to start the thread
@@ -136,7 +138,7 @@ void Worker::wake_up()
 }
 ```
 
-Here we have the constructor and some of the utility member functions. They're a relatively basic use of [condition_variable](https://en.cppreference.com/w/cpp/thread/condition_variable) and [locks](https://en.cppreference.com/w/cpp/thread/unique_lock) but can be illustrative for people who haven't used them much.
+Then we have the work related functions. Data in/Data out. Here 'work' is us adding all of the numbers in the vector and then clearing the it.
 
 ```cpp
 // Some method to give the worker data
@@ -160,8 +162,6 @@ void Worker::perform_work()
     data.clear();
 }
 ```
-
-Then we have the work related functions. Data in/Data out. Here 'work' is us adding all of the numbers in the vector and then clearing the it.
 
 Then we have the actual thread loop.
 
@@ -200,7 +200,7 @@ void Worker::operator()(std::stop_token token)
 }
 ```
 
-And that's it. Most of it ended up being vanilla uses for mutexes and condition variables but a good exercise anyway. Here is an example output where I added some print statements for each of the steps (x is main thread, o is worker thread).
+Most of it ended up being vanilla uses for mutexes and condition variables but a good exercise anyway. Here is an example output where I added some print statements for each of the steps (x is main thread, o is worker thread).
 
 ![worker](/img/worker.png "x: starting
 o: starting
