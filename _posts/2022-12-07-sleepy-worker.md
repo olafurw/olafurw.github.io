@@ -228,3 +228,7 @@ Well here's the point I wanted to make. I had this idea today. "What if there wa
 Having an idea, thinking about it's execution, trying to come up with a solution. This is a very fundamental part of practicing to become a better programmer.
 
 Practice something today.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1600587722011594752) or [Mastodon](https://mastodon.social/@olafurw/109474271612723892)
