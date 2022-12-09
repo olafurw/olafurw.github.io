@@ -80,3 +80,7 @@ Think back to the circles. When picking a function, out of all the ones that tec
 Of course there might be "it depends" and other caveats to this, this is C++ after all. But I've found that this kind of mental model matches most of the functionality.
 
 This also applies to when the concepts are being joined together using `||`, because using `or` expands the universe of posibilities. So you can think of it as the inverse, pick the one the one that has the "fewest" `||`.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1601223127736160258) or [Mastodon](https://mastodon.social/@olafurw/109484200906506328)
