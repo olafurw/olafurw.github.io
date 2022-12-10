@@ -84,3 +84,7 @@ void grid::reset()
 ## Conclusion
 
 Look at your old code, see what it did, see how you've evolved. Be your own critic. But be nice to yourself.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1601627343734247424) or [Mastodon](https://mastodon.social/@olafurw/109490516929867392)
