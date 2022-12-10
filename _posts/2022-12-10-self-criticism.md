@@ -80,3 +80,7 @@ void grid::reset()
     m_grid = {};
 }
 ```
+
+## Conclusion
+
+Look at your old code, see what it did, see how you've evolved. Be your own critic. But be nice to yourself.
