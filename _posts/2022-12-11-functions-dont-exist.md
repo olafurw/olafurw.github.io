@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogvent 11 - Functions don't exist
-tags: [programming, learning, c++, blogvent]
+tags: [programming, blogvent]
 comments: false
 ---
 
@@ -34,3 +34,7 @@ Sure, but I'm talking about convention. But I could write a system where, by con
 ## Why?
 
 No reason. It's just what's been going through my head today.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1601943592272101382) or [Mastodon](https://mastodon.social/@olafurw/109495456641307385)
