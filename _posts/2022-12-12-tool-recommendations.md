@@ -20,3 +20,7 @@ My main problem with GitHub actions was that I was editing a `yml` file and then
 It's not without flaws though. It sets up a docker image that is supposed to match what is running in actions but I've seen comments that it's not perfect. It does not support [Services on GitHub](https://github.com/nektos/act/issues/173) but it's being worked on. And if you rely on GitHub Actions to cache previously run output then you have to do something locally for that because that does not work with `act` out of the box.
 
 But otherwise it's great, I'd recommend looking at it.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1602362203033800727) or [Mastodon](https://mastodon.social/@olafurw/109501999097156735)
