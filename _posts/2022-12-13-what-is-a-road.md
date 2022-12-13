@@ -70,3 +70,7 @@ Fine, I'll take each node, get the geographic point, find out what point is clos
 ![osm7](/img/osm7.png "road from before but highlighting that the end of one of the roads is further in than the start of the other")
 
 I give up. I'll just treat them as 3 separate roads for now.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1602739319692730376) or [Mastodon](https://mastodon.social/@olafurw/109507891298323696)
