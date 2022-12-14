@@ -50,3 +50,7 @@ This means you can assign values to `undefined`
 ```
 
 But I don't recommend doing this... obviously.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1603122285954547713) or [Mastodon](https://mastodon.social/@olafurw/109513875436602167)
