@@ -85,3 +85,7 @@ onMount(() => {
 Here we have a function from `Svelte` called `onMount`. This function is given another function to execute. When the component has been drawn for the first time this function is called. Notice that the return value of this function is another function (how functional). This function is called when the component is removed, usually by browsing away or when the component is replaced with something else.
 
 This is the same behavior, but not through the language, but by convention. And it's right next to the construction part of the code, which means that the chance of forgetting to release your resource is reduced.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1603455205542182917) or [Mastodon](https://mastodon.social/@olafurw/109519076942671704)
