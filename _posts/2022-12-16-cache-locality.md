@@ -50,3 +50,7 @@ If we are reading data from some specific point in memory, we assume that the ne
 This means that working with contiguous memory is very fast and if we aren't, then we would have fetched some extra bytes unnecessarily, but that's ok... kinda.
 
 tl;dr `std::vector` good `std::list` bad.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1603797263352045568) or [Mastodon](https://mastodon.social/@olafurw/109524422281601552)
