@@ -96,3 +96,7 @@ So to get your foot in the door with the idea of monads:
 > A wrapper type that helps you call multiple functions one after another without the boilerplate of error checking.
 
 Is there more too it? Sure, but this is fine for now.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1604188327707656193) or [Mastodon](https://mastodon.social/@olafurw/109530532279045545)
