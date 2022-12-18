@@ -50,7 +50,7 @@ So types like `std::optional`, `std::expected` in C++ can be thought of as "Mona
 
 ## Interface
 
-If you would have this wrapper types like `std::optional`, the most important part is that they behave in specific ways and have certain functionality. Most importantly when being used as an argument into a function.
+If you would have this wrapper type (like `std::optional`), the most important part is that it behaves in a specific way and has certain functionality. Most importantly when being used as an argument into a function.
 
 Because if you only had `std::optional` as a wrapper for your value, you'd be filling your codebase with conditional checks to see if you actually have a value or not. So in this [excellent proposal by Sy Brand](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p0798r6.html) which was accepted for C++23, this kind of interface was added to `std::optional`.
 
