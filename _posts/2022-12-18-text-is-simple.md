@@ -46,3 +46,7 @@ You want your bit of text to take only the space it needs, and if you are modify
 Then we need to transition to a more civilized age. These ISO extensions aren't going to work in the long run, not even slightly. So we need to support Unicode, and the can of worms this opens is incredible.
 
 I'm not nearly smart enough to describe this so I will point you to a very smart person and recommend [this talk](https://www.youtube.com/watch?v=BdUipluIf1E) by JeanHeyd Meneide, I also recommend [their blog](https://thephd.dev/), go read.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1604521780764344321) or [Mastodon](https://mastodon.social/@olafurw/109535742806834126)
