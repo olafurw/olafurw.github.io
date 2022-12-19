@@ -113,3 +113,7 @@ Here, a compiler with the `-Wconversion` flag will give you an error
 So be careful when you're comparing apples to oranges. 
 
 PS. I still recommend the `-Wconversion` flag, it will find all sorts of fun issues in your codebase.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1604925376492347397) or [Mastodon](https://mastodon.social/@olafurw/109542048831169443)
