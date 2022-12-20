@@ -101,3 +101,7 @@ The sponsored segments are about 24 to 27 minutes in length and include both ads
 ## More to come
 
 I didn't have much time today but I want to play with this dataset more, so expect 1 or 2 more posts about it.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1605324220199620608) or [Mastodon](https://mastodon.social/@olafurw/109548280473037978)
