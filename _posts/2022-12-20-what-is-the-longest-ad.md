@@ -94,7 +94,7 @@ I'm not going to link to the video mainly because from what I've googled it's an
 
 The next several results are funny though. Because they're all from the same YouTube channel (a channel I'm ok with linking to). [Critical Role.](https://www.youtube.com/@criticalrole) A dungeons & dragons role playing podcast.
 
-The videos are about 3-4 hours in length and they're all from Campaign 2. The sponsored segments seem to be the intermission about halfway through the video. 
+The videos are about 3-4 hours in length and they're all from Campaign 2. The sponsored segments seem to be the intermission about halfway through the video. [Here's an example](https://youtu.be/8tCcRA2aogk?t=8010), sponsored segment starts at about 2 hours and 13 minutes and ends at 2 hours and 41 minutes.
 
 The sponsored segments are about 24 to 27 minutes in length and include both ads and community submitted videos/images.
 
