@@ -91,3 +91,7 @@ So as you can see here, on the play bar that the sponsored part is localized in 
 ![sponsorb3](/img/sponsorb3.png "video of mrbeast's squid game video with the play bar visible and 5 green segments, but they're all around the same area.")
 
 [Here's the code](https://gist.github.com/olafurw/1e76bbe98bb8ef306c3f1e12c2aba156) that I used to find what video has the most segments, you run this against the dataset and sort the results `cargo run sponsorTimes.csv | sort -n`
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1605661683476750353) or [Mastodon](https://mastodon.social/@olafurw/109553553417430881)
