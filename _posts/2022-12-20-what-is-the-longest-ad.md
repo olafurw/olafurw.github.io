@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogvent 20 - What is the longest YouTube Sponsored Segment?
+title: Blogvent 20 - What is the longest YouTube sponsored segment?
 tags: [programming, rust, analysis, blogvent]
 comments: false
 ---
