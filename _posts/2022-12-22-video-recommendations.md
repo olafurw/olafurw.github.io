@@ -35,3 +35,7 @@ Want something tech but not directly programming? Then I highly recommend "Line 
 
 [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
 [![video3](https://img.youtube.com/vi/YQ_xWvX1n9g/0.jpg "Line Goes Up – The Problem With NFTs")](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1605990578679713793) or [Mastodon](https://mastodon.social/@olafurw/109558692366532806)
