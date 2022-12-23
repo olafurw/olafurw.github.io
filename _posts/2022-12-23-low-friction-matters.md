@@ -50,3 +50,7 @@ I actually wouldn't be mad if installing `clang` would also install `conan` or i
 It's just this idea of starting a quick C++ project, it still gives me a feeling of dread. This "oh no, then I need to setup CMake and vcpkg and and and..."
 
 I just don't want this friction to exist.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1606359279174287372) or [Mastodon](https://mastodon.social/@olafurw/109564453333896076)
