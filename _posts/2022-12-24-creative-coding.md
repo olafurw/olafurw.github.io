@@ -36,3 +36,7 @@ Which means you'll get these waves or cells of colors that engulph an area only 
 My favorite memory of creating this was when I tweeted about it and someone replied that it reminded them of Neutron Clustering and linked to a [paper they wrote in statistical mechanics.](https://arxiv.org/abs/2203.00540)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The dynamics of this system is similar to the models of neutron clustering with mass conservation that we studied in <a href="https://t.co/TgSla6TOH7">https://t.co/TgSla6TOH7</a>! Can we say anything about the fixation time in this context? <a href="https://t.co/EMMiDYq2a6">https://t.co/EMMiDYq2a6</a></p>&mdash; Davide Mancusi (@arek_fu) <a href="https://twitter.com/arek_fu/status/1522502883417145345?ref_src=twsrc%5Etfw">May 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1606600600522833923) or [Mastodon](https://mastodon.social/@olafurw/109568223782973816)
