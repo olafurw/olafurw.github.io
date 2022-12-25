@@ -70,3 +70,7 @@ This is what I sometimes call a "bouncer". Like at a club. You're not allowed in
 Same thing applies in the opposite case. You now know that anything below that pink area is guaranteed to have a vector that contains data.
 
 Creating these walls I feel really help with the mental load of reading code. You don't have to every time read the entire function or look at where conditions start and stop. You look for the bouncer and know that here is where the line is drawn.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1607002976132169738) or [Mastodon](https://mastodon.social/@olafurw/109574509315298664)
