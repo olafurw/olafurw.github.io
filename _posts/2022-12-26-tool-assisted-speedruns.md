@@ -80,3 +80,7 @@ Here's a little video of the tool in action. Note: some flashing images in the v
 It's very quick and pretty simple but it was pretty fun to work on and I can imagine how difficult this would be to create a sequence that beats the entire game.
 
 I know that for older games on emulators people use freeze frames and are able to rewind the game so that helps a lot with the creation of these sequences.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1607356010053632000) or [Mastodon](https://mastodon.social/@olafurw/109580027319943029)
