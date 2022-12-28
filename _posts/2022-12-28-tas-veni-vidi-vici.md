@@ -36,3 +36,7 @@ What I found out is that even though you have the perfect timing, it still won't
 The conclusion there is that writing a TAS bot using `sleep()` functions just doesn't actually work in real world cases. But I got it to work eventually and here is the result.
 
 <iframe src="https://www.youtube.com/embed/7dxOwhyXN4U" frameborder="0" allowfullscreen style="position: relative; top: 0; left: 0; width: 720px; height: 476px"></iframe>
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1608193023204069378) or [Mastodon](https://mastodon.social/@olafurw/109593105383836320)
