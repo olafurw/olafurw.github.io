@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogvent 29 - My C++ Future
-tags: [programming, games, rust, blogvent]
+tags: [programming, c++, blogvent]
 comments: false
 ---
 
@@ -40,3 +40,7 @@ I like using computers to solve problems, to create soltions for clients, and I'
 Will there be some C++ along the way? Sure. I still love the language and actually I'd be happy to teach it to someone who wants to learn, because if they feel it's worth and it fits their problem solving style, it then I'd be honored to help them along that path.
 
 But for me? In the next few years? I'm not sure.
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1608587370189967362) or [Mastodon](https://mastodon.social/@olafurw/109599267191358485)
