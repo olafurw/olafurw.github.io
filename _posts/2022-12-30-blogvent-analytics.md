@@ -48,3 +48,7 @@ Most of you were iOS, like by a lot (40%). I did not expect I had so many Apple 
 Most common language outside of English was German and 3rd place was Finnish. Danke and Kiitos.
 
 I have something different planned for tomorrow. So until then...
+
+## Comments
+
+If you want to chat about this, [Twitter](https://twitter.com/olafurw/status/1608923518040932352) or [Mastodon](https://mastodon.social/@olafurw/109604519571272602)
