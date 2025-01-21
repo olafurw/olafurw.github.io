@@ -6,4 +6,4 @@ gem "github-pages", '~> 227', group: :jekyll_plugins
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'jekyll-paginate'
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
